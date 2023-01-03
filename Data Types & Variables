@@ -1,0 +1,9 @@
+Summary:
+
+Data type is the type and range of values that item can have.
+
+Python's data types: Numbers, Strings, Booleans.
+
+A variable is simply a name to which a value can be assigned.
+
+To assign a value to a var using =
