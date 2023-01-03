@@ -1,0 +1,10 @@
+print ("Hello World") # return Hello World
+
+print (50) # return 50
+
+print (50, 1000, 123.5, "Hello World") # return 50, 1000, 123.5, Hello World
+
+print ("Hello", end = " ") # to print in same line given multi print statements
+print ("World")
+
+# return Hello World
